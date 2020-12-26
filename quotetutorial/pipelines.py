@@ -10,4 +10,5 @@ from itemadapter import ItemAdapter
 
 class QuotetutorialPipeline:
     def process_item(self, item, spider):
+        print("hi this is akash\n")
         return item
