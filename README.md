@@ -13,4 +13,7 @@ containers:
 
     we have file named item.py to store the items 
 
+we used sqlite3 for database it is inbulit in python and easy to use.
+
+
 
